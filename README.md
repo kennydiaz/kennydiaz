@@ -1,5 +1,5 @@
 # 🚀 Welcome, curious human!
-You’re about to enter the land of projects, experiments, and code that sometimes works by pure luck.👋
+## You’re about to enter the land of projects, experiments, and code that sometimes works by pure luck.👋
 
 <!--
 **kennydiaz/kennydiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
